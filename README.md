@@ -1,7 +1,7 @@
-Coding ini ditulis oleh 	: Kriti Mauludin
-Coding ini ditulis pada kota	: Bogor, Indonesia.
-Temukan portofolio saya di	: https://kritimauludin.github.io
-Saya aktif menulis artikel di	: https://arahin.ocumps.com
+- Coding ini ditulis oleh 	    : Kriti Mauludin
+- Coding ini ditulis pada kota	: Bogor, Indonesia.
+- Temukan portofolio saya di	  : https://kritimauludin.github.io
+- Saya aktif menulis artikel di	: https://arahin.ocumps.com
 
 Cara melihat output soal yang telah diselesaikan :
 1. Simpan folder ini pada web server yang digunakan. Jika menggunakan xampp simpan di htdocs.
