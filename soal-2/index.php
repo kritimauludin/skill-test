@@ -1,20 +1,3 @@
-
-Tidak ada yang dipilih 
-
-Lewatkan ke konten
-Menggunakan Gmail dengan pembaca layar
-in:sent 
-Meet
-Rapat baru
-Gabung ke rapat
-Hangout
-
-Percakapan
-7,8 GB dari 15 GB telah digunakan
-Persyaratan · Privasi · Kebijakan Program
-Aktivitas akun terakhir: 1 jam yang lalu
-Detail
-
 <!-- tier 2 -->
 <?php 
 
