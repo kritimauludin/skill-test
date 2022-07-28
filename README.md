@@ -5,8 +5,6 @@
 
 Cara melihat output soal yang telah diselesaikan :
 1. Simpan folder ini pada web server yang digunakan. Jika menggunakan xampp simpan di htdocs.
-2. Start apache dan mysql pada control panel, Jika menggunakan xampp. Jika berbeda silahkan disesuaikan.
-3. Lakukan import database yang tersimpan di direktori (database/db_skill_test_spe.sql).
-4. Lakukan konfigurasi koneksi ke database di direktori (global/modul.php)
-4. Seluruh soal akan menggunakan database yang sama, yang sebelumnya diimport.
-5. Jika penjelasan kurang jelas, silahkan hubungi saya melalui email atau kontak yang ada pada halaman portofolio.
+2. Jika menggunakan xampp, Start apache pada control panel. Jika berbeda silahkan disesuaikan.
+3. Atau jika ingin lebih mudah. Buka cmd -> arahkan ke folder tempat file php tersimpan -> jalankan (php -S 127.0.0.1:8000)
+4. Jika penjelasan kurang jelas, silahkan hubungi saya melalui email atau kontak yang ada pada halaman portofolio.
